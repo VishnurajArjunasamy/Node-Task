@@ -1,0 +1,30 @@
+[
+  {
+    "employeeId": "2000",
+    "realName": "abdul",
+    "nickName": "zoro",
+    "dob": "01-03-2000",
+    "hobbies": "getting lost"
+  },
+  {
+    "employeeId": "2050",
+    "realName": "prav",
+    "nickName": "misty",
+    "dob": "01-03-2000",
+    "hobbies": "scuba diving"
+  },
+  {
+    "employeeId": "2043",
+    "realName": "pravin",
+    "nickName": "pravi",
+    "dob": "01-03-2000",
+    "hobbies": "cricket"
+  },
+  {
+    "employeeId": "2070",
+    "realName": "zoro",
+    "nickName": "rk",
+    "dob": "01-03-2000",
+    "hobbies": "music"
+  }
+]
